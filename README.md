@@ -1,7 +1,5 @@
 # 🚚 CJ-Logistics-Optimization
 
-# 🚚 CJ-Logistics-Optimization
-
 **“한 번에 싣고, 최소 거리로 달린다.”**  
 CVRP(용량 제약 차량경로) + 3-D *LIFO* 적재 문제를 동시에 풀어  
 **트럭 수 · 운행 거리 · 셔플링 이동** 3중 비용을 최소화하는 Python 구현입니다.
