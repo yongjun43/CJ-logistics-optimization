@@ -1,0 +1,6 @@
+numpy==1.24.4
+pandas==2.0.3
+scikit-learn==1.1.3
+openpyxl
+ortools==9.12.4544
+py3dbp==1.1.2
